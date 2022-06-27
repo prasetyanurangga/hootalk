@@ -1,16 +1,29 @@
-# hootalk
+# Hootalk - Flutter App
+**Packages we are using:**
 
-A new Flutter project.
+- [Firebase Database](https://pub.dev/packages/firebase_database)
+- [Firebase Core](https://pub.dev/packages/firebase_core)
+- [Firebase Messaging Platform Interface](https://pub.dev/packages/firebase_messaging_platform_interface)
+- [Firebase Database Platform Interface](https://pub.dev/packages/firebase_database_platform_interface)
+- [Username Gen](https://pub.dev/packages/username_gen)
+- [Shared Preferences](https://pub.dev/packages/shared_preferences)
+- [Firebase Auth](https://pub.dev/packages/firebase_auth)
+- [Google Sign In](https://pub.dev/packages/google_sign_in)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+**Contact**
 
-A few resources to get you started if this is your first Flutter project:
+For more information contact angganurprasetya4@gmail.com
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+**Download Apk**
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Qtz.apk](https://github.com/prasetyanurangga/qtz/raw/main/Qtz.apk)
+
+**Data**
+
+[Firebase](https://firebase.google.com/)
+
+### Hootalk App Final UI
+![App UI](https://github.com/prasetyanurangga/hootalk/raw/main/hootalk_app_ui.png)
+![Demo](https://github.com/prasetyanurangga/qtz/raw/main/qtz_app.gif)
+
