@@ -17,13 +17,12 @@ For more information contact angganurprasetya4@gmail.com
 
 **Download Apk**
 
-[Qtz.apk](https://github.com/prasetyanurangga/qtz/raw/main/Qtz.apk)
+[Hootalk.apk](https://github.com/prasetyanurangga/hootalk/raw/main/hootalk.apk)
 
 **Data**
 
 [Firebase](https://firebase.google.com/)
 
 ### Hootalk App Final UI
-![App UI](https://github.com/prasetyanurangga/hootalk/raw/main/hootalk_app_ui.png)
-![Demo](https://github.com/prasetyanurangga/qtz/raw/main/qtz_app.gif)
+![App UI](https://github.com/prasetyanurangga/hootalk/raw/main/hootalk.png)
 
